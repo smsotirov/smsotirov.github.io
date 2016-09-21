@@ -25,6 +25,14 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+          
+          {% if site.google_plus_username %}
+			<li>
+				<a href="https://plus.google.com/{{ site.google_plus_username }}">
+					<i class="fa fa-google-plus"></i> Google+
+				</a>
+			</li>
+		{% endif %}
         </ul>
       </div>
 
