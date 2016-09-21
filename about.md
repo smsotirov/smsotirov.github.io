@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Sotir Sotirov. I am a software developer at [101domain GRS](https://www.101domain.com/). You can find more about me on this wenbsite [www.sotir-sotirov.com](http://www.sotir-sotirov.com/).
+My name is Sotir Sotirov. I am a software developer at [101domain GRS](https://www.101domain.com/). You can find more about me on this website [www.sotir-sotirov.com](http://www.sotir-sotirov.com/).
 
 I will publish here an articles which I like most. Mainly they will be on the IT theme. My goal is to make a good and helpfull collection of good topics at one place.
 
