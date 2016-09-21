@@ -9,7 +9,7 @@
 title: S M Sotirov Articles site.
 email: s.m.sotirov@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This site is still in process. Please come back later. 
+  This site contains set of articles mainly on IT topics, collected from around the internet. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://smsotirov.com" # the base hostname & protocol for your site
 # twitter_username: smsotirov
