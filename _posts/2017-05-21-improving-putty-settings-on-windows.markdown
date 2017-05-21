@@ -66,7 +66,8 @@ Also dynamic forwarding is very useful to connect to systems on a remote network
 Finally, saving the default.
 Now, don't forget to save the changes you just made to the default template. If you loaded the Default Settings at the start, return back to Category: Session and press the Save button. Now you are done !
 
-##Putty settings summary. <a id="settings-summary"></a>
+## Putty settings summary. <a id="settings-summary"></a>
+
 Category: Session
 Connection type: SSH
 Close window on exit: Never
