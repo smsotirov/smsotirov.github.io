@@ -11,7 +11,7 @@ Since I started contract work for a new customer and have been offered a Windows
 
 _PS: Some of these options work equally well for Putty on Linux, put there is little use for that combination._
 
-Skip directly to Putty settings summary.
+* [Skip directly to Putty settings summary.](#settings-summary)
 
 Configure your Putty first, then make entries.
 This is important advice. First configure your environment before you start using it. This is especially true for Putty, since you always start off from the default, it is important to configure the default entry before you create entries from these defaults. It will save you a lot of time afterwards to get things straight.
@@ -66,7 +66,7 @@ Also dynamic forwarding is very useful to connect to systems on a remote network
 Finally, saving the default.
 Now, don't forget to save the changes you just made to the default template. If you loaded the Default Settings at the start, return back to Category: Session and press the Save button. Now you are done !
 
-Putty settings summary.
+##Putty settings summary. <a id="settings-summary"></a>
 Category: Session
 Connection type: SSH
 Close window on exit: Never
