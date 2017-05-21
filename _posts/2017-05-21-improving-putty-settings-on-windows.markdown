@@ -13,10 +13,10 @@ _PS: Some of these options work equally well for Putty on Linux, put there is li
 
 * [Skip directly to Putty settings summary.](#settings-summary)
 
-Configure your Putty first, then make entries.
+### Configure your Putty first, then make entries.
 This is important advice. First configure your environment before you start using it. This is especially true for Putty, since you always start off from the default, it is important to configure the default entry before you create entries from these defaults. It will save you a lot of time afterwards to get things straight.
 
-So before you make any changes, open the default template in Category: Session by selecting Default Settings and pressing the Load button.
+So before you make any changes, open the default template in **Category: Session** by selecting **Default Settings** and pressing the **Load** button.
 
 Make SSH the default.
 If you have an older version of Putty, chances are that you have Telnet as the default protocol. Changing it to SSH will probably save you some time when you start Putty out-of-the-blue. For this go to Category: Session and select SSH.
