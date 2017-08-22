@@ -84,7 +84,7 @@ Beef up your library with the following books:
 Language specific structural books like:
 
 * [JavaScript: The Good Parts](http://www.amazon.com/gp/product/B0026OR2ZY/)
-* [Effective Java](http://www.amazon.com/gp/product/B000WJOUPA/)
+* [Effective Java](http://www.amazon.com/gp/product/0321356683/)
 * [Effective C#](http://www.amazon.com/gp/product/B003BXRNZI/)
 
 At this point you really want to focus your learning on the structural process of writing good code and working with existing systems. You should strive to be able to easily implement an algorithm in your programming language of choice and to do it in a way that is easy to read and understand.
