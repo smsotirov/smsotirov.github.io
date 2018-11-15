@@ -19,3 +19,4 @@ twitter_username: SMSotirov
 
 # Build settings
 markdown: kramdown
+future: true
