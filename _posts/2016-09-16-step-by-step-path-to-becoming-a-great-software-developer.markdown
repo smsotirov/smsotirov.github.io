@@ -4,6 +4,7 @@ title:  "Step By Step Path to Becoming a Great Software Developer."
 date:   2016-09-16 15:00:00 -0400
 categories: software development
 ---
+
 #### Step By Step Path to Becoming a Great Software Developer
 *Author: [John Sonmez](https://simpleprogrammer.com/author/jsonmez/). Original article from  [simpleprogrammer.com](https://simpleprogrammer.com/2014/06/30/step-step-path-becoming-great-software-developer/)*
 
@@ -12,7 +13,7 @@ These kinds of emails generally tick me off, because I feel like when you ask th
 I suspect that very few people who email me asking this question really want to know how to become a great software developer, but are instead looking for a quick fix or an easy answer.
 On the other hand, I think there are some genuinely sincere developers that just don’t even know how to formulate the right questions they need to ask to get to their desired future. I think those developers–especially the ones starting out–are looking for a step-by-step guide to becoming a great developer.
 
-![super hero](https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2014/06/super-hero.jpg)
+![super hero](/img/super-hero.webp)
 
 I thought I would make an attempt, from my experience and the best of my knowledge, to offer up that step-by-step guide.
 Now, of course, I realize that there is no magical formula and that there are multiple paths to success, but I think what follows is a reasonable outline of steps someone starting out could take to reach a pretty high level of proficiency and be generally regarded as a good–perhaps even great–developer.
@@ -31,7 +32,7 @@ Now that you have a basic understanding of a single programming language, it’s
 Don’t get too ambitious at this point–but also don’t be too timid. Pick an idea for an application that is simple enough that you can do it with some effort, but nothing that will take months to complete. Try to confine it to just the programming language as much as possible. Don’t try to do something full stack (meaning, using all the technologies from user interfaces all the way to databases)–although you’ll probably need to utilize some kind of existing framework or APIs.  
 For your first real project you might want to consider copying something simple that already exists. Look for a simple application, like a To-Do list app and straight out try to copy it. Don’t let your design skills stand in the way of learning to code.
 
-![scribbles](https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2014/06/scribbles.jpg)
+![scribbles](/img/scribbles.webp)
 
 I’d recommend creating a mobile application of some kind, since most mobile applications are small and pretty simple. Plus, learning mobile development skills is very useful as more and more companies are starting to need mobile applications. Today, you can build a mobile application in just about any language. There are many solutions that let you build an app for the different mobile OSes using a wide variety of programming languages.  
 You could also build a small web application, but just try to not get too deep into a complex web development stack. I generally recommend starting with a mobile app, because web development has a higher cost to entry. To develop a web application you’ll need to at least know some HTML, probably some back-end framework and JavaScript.  
@@ -61,7 +62,7 @@ In addition, you will want to learn some kind of object relational mapping techn
 #### Step 5: Get a job supporting an existing system
 Ok, now you have enough skills and knowledge to get a basic job as a software developer. If you could show me that you understand the basics of a programming language, can work with a framework, understand databases and have built your own application, I would certainly want to hire you–as would many employers.
 
-![Tower Bridge - London - United Kingdom](https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2014/06/maintainance.jpg)
+![Tower Bridge - London - United Kingdom](/img/maintainance.webp)
 
 The key here is not too aim to high and to be very specific. Don’t try and get your dream job right now–you aren’t qualified. Instead, try and get a job maintaining an existing code base that is built using the programming language and framework you have been learning.  
 You might not be able to find an exact match, but the more specific you can be the better. Try to apply for jobs that are exactly matched to the technologies you have been learning.  
@@ -103,7 +104,7 @@ Just make sure you don’t drag it out. You still don’t want to get too ambiti
 
 #### Step 9: Get a job creating a new system
 Ok, now it’s time to go job hunting again. By this point, you should have pretty much maxed out the benefit you can get from your current job–especially if it still involves only doing maintenance.  
-![Vintage vector background with place for your text.](https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2014/06/new.jpg)
+![Vintage vector background with place for your text.](/img/new.webp)
 
 It’s time to look for a job that will challenge you–but not too much. You still have a lot to learn, so you don’t want to get in too far over your head.   Ideally, you want to find a job where you’ll get the opportunity to work on a team building something new.
 You might not be the architect of the application, but being involved in the creation of an application will help you expand your skills and challenge you in different ways than just maintaining an existing code base.  
