@@ -3,6 +3,7 @@ layout: post
 title:  "10 Articles Every Programmer Must Read"
 date:   2018-11-15 09:00:00 -0400
 categories: software development
+permalink: /:title
 ---
 #### 10 Articles Every Programmer Must Read
 *Author: [Javin Paul](https://plus.google.com/114528699166048052030){:target="_blank"}. Original article from  [javarevisited.blogspot.com](https://javarevisited.blogspot.com/2014/05/10-articles-every-programmer-must-read.html){:target="_blank"}*  

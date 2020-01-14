@@ -14,7 +14,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://smsotirov.com" # the base hostname & protocol for your site
 # twitter_username: smsotirov
 github_username:  smsotirov
-google_plus_username:  "Сотир Сотиров"
 twitter_username: SMSotirov
 
 # Build settings

@@ -3,6 +3,7 @@ layout: post
 title:  "Step By Step Path to Becoming a Great Software Developer."
 date:   2016-09-16 15:00:00 -0400
 categories: software development
+permalink: /:title
 ---
 
 #### Step By Step Path to Becoming a Great Software Developer

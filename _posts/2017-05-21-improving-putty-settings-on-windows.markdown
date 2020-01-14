@@ -3,6 +3,7 @@ layout: post
 title:  "Improving Putty settings on Windows."
 date:   2017-05-21 16:00:00 -0200
 categories: software development
+permalink: /:title
 ---
 
 *Author: [Dag Wieers](https://twitter.com/dagwieers). Original article from  [Field Commander Wieers](http://dag.wiee.rs/blog/content/improving-putty-settings-on-windows)*
